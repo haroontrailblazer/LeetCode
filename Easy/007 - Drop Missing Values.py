@@ -48,7 +48,7 @@ import pandas as pd
 
 def dropMissingData(students):
     df = pd.DataFrame(students, columns = ["student_id","name","age"])
-    dfc = df.dropna()
+    dfc = df.dropna(subset=["name"])
     return dfc
 
 students = [[32,"Piper",5],
