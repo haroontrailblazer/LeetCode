@@ -50,7 +50,7 @@ Every salary has been doubled.
 
 import pandas as pd
 
-def modify_columns(employees)
+def modify_columns(employees):
     df = pd.DataFrame(employees, columns = ['name', 'salary'])
     df['salary'] = df['salary'] * 2
     return df
