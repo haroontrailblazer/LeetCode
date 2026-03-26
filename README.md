@@ -11,11 +11,7 @@ This repo documents my consistent practice of **Data Structures & Algorithms (DS
 > Badges earned through monthly challenges and consistency on LeetCode.
 
 
-<p align="center">
-  
-  <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="180"/>
-  
-</p>
+![LeetCode Introduction to Pandas Badge](https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif)
 
 ---
 <br>
@@ -28,6 +24,7 @@ This repo documents my consistent practice of **Data Structures & Algorithms (DS
 - Topic-wise problem coverage
 
 ### Topics Practiced
+
 - Pandas Data Structure
 - Data Inspection
 - Data Selecting
